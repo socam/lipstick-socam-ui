@@ -1,0 +1,66 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icons/add.png</file>
+        <file>images/icons/apps.png</file>
+        <file>images/icons/cloud.png</file>
+        <file>images/icons/multitask.png</file>
+        <file>images/icons/ok.png</file>
+        <file>images/icons/refresh.png</file>
+        <file>images/icons/remove.png</file>
+        <file>images/icons/search.png</file>
+        <file>images/icons/settings.png</file>
+        <file>images/icons/star.png</file>
+        <file>images/icons/appswitcher-go.svg</file>
+        <file>images/icons/appswitcher-close.svg</file>
+        <file>images/icons/caret.png</file>
+        <file>images/icons/shortcut-apps.svg</file>
+        <file>images/icons/shortcut-browser.svg</file>
+        <file>images/icons/shortcut-contacts.svg</file>
+        <file>images/icons/shortcut-msg.svg</file>
+        <file>images/icons/shortcut-telephony.svg</file>
+        <file>images/home.png</file>
+        <file>images/weather.png</file>
+        <file>images/photo.png</file>
+        <file>images/icons/weather/black_low_cloud.png</file>
+        <file>images/icons/weather/cloudy_with_heavy_rain.png</file>
+        <file>images/icons/weather/cloudy_with_heavy_snow.png</file>
+        <file>images/icons/weather/cloudy_with_light_rain.png</file>
+        <file>images/icons/weather/cloudy_with_light_snow.png</file>
+        <file>images/icons/weather/cloudy_with_sleet.png</file>
+        <file>images/icons/weather/fog.png</file>
+        <file>images/icons/weather/heavy_rain_showers.png</file>
+        <file>images/icons/weather/heavy_snow_showers.png</file>
+        <file>images/icons/weather/light_rain_showers.png</file>
+        <file>images/icons/weather/light_snow_showers.png</file>
+        <file>images/icons/weather/mist.png</file>
+        <file>images/icons/weather/sleet_showers.png</file>
+        <file>images/icons/weather/sunny_intervals.png</file>
+        <file>images/icons/weather/sunny.png</file>
+        <file>images/icons/weather/clear_sky.png</file>
+        <file>images/icons/weather/thunderstorms.png</file>
+        <file>images/icons/weather/thundery_showers.png</file>
+        <file>images/icons/weather/white_cloud.png</file>
+        <file>images/icons/weather/unknown.png</file>
+
+        <file>images/icons/weather/mist_night.png</file>
+        <file>images/icons/weather/cloudy_with_sleet_night.png</file>
+        <file>images/icons/weather/clear_sky_night.png</file>
+        <file>images/icons/weather/sleet_showers_night.png</file>
+        <file>images/icons/weather/heavy_rain_showers_night.png</file>
+        <file>images/icons/weather/cloudy_with_heavy_snow_night.png</file>
+        <file>images/icons/weather/light_rain_showers_night.png</file>
+        <file>images/icons/weather/thunderstorms_night.png</file>
+        <file>images/icons/weather/black_low_cloud_night.png</file>
+        <file>images/icons/weather/white_cloud_night.png</file>
+        <file>images/icons/weather/cloudy_with_light_snow_night.png</file>
+        <file>images/icons/weather/heavy_snow_showers_night.png</file>
+        <file>images/icons/weather/cloudy_with_heavy_rain_night.png</file>
+        <file>images/icons/weather/cloudy_with_light_rain_night.png</file>
+        <file>images/icons/weather/fog_night.png</file>
+        <file>images/icons/weather/thundery_showers_night.png</file>
+        <file>images/icons/weather/light_snow_showers_night.png</file>
+
+
+
+    </qresource>
+</RCC>

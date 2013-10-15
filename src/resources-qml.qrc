@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/components/Pager.qml</file>
+        <file>qml/components/TabBar.qml</file>
+        <file>qml/pages/Lockscreen.qml</file>
+        <file>qml/pages/Lockscreen/LockscreenClock.qml</file>
+        <file>qml/pages/Lockscreen/NotificationIcon.qml</file>
+        <file>qml/pages/AppLauncher.qml</file>
+        <file>qml/pages/AppSwitcher.qml</file>
+        <file>qml/pages/AppSwitcher/SwitcherItem.qml</file>
+        <file>qml/MainScreen.qml</file>
+        <file>qml/pages/AppSwitcher/ImageButton.qml</file>
+        <file>qml/pages/AppLauncher/LauncherItem.qml</file>
+        <file>qml/pages/Search.qml</file>
+        <file>qml/pages/Cloud.qml</file>
+        <file>qml/pages/Home.qml</file>
+        <file>qml/pages/AppShortcut.qml</file>
+        <file>qml/pages/ScreenShortcut.qml</file>
+        <file>qml/NotificationPreview.qml</file>
+        <file>qml/VolumeControl.qml</file>
+        <file>qml/USBModeSelector.qml</file>
+        <file>qml/ShutdownScreen.qml</file>
+        <file>qml/feeds.js</file>
+        <file>qml/components/WeatherWidget.qml</file>
+        <file>qml/components/WeatherLocationSelection.qml</file>
+        <file>qml/weather.js</file>
+    </qresource>
+</RCC>
