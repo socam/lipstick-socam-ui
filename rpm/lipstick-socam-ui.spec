@@ -12,7 +12,7 @@ Summary:    A nice homescreen
 Version:    0.1.2
 Release:    1
 Group:      System/GUI/Other
-License:    BSD
+License:    LGPLv2.1
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   lipstick-socam >= 0.12
 Requires:   nemo-qml-plugin-configuration
