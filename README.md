@@ -1,6 +1,8 @@
 Welcome to colorful-home
 ========================
 
+Go to the [wiki page](http://sourceforge.net/p/socamos/wiki/ "Socam's Wiki") to read the central [README](https://sourceforge.net/p/socamos/wiki/README/ "SOCAM's README") and the [MANIFESTO](https://sourceforge.net/p/socamos/wiki/Manifesto/ "SOCAM's Manifesto").
+
 Colorful and fresh homescreen user experience for touchscreens.
 
 
